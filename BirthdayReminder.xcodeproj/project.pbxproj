@@ -13,11 +13,17 @@
 		86C9723C1796723E00384707 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 86C9723A1796723E00384707 /* InfoPlist.strings */; };
 		86C9723E1796723E00384707 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 86C9723D1796723E00384707 /* main.m */; };
 		86C972421796723E00384707 /* BRAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 86C972411796723E00384707 /* BRAppDelegate.m */; };
-		86C972441796723E00384707 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 86C972431796723E00384707 /* Default.png */; };
-		86C972461796723E00384707 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 86C972451796723E00384707 /* Default@2x.png */; };
-		86C972481796723E00384707 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 86C972471796723E00384707 /* Default-568h@2x.png */; };
 		86C9724B1796723E00384707 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86C972491796723E00384707 /* MainStoryboard.storyboard */; };
 		86C9724E1796723E00384707 /* BRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 86C9724D1796723E00384707 /* BRViewController.m */; };
+		86FAE3441796817100EBDE26 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 86FAE33B1796817100EBDE26 /* Default-568h@2x.png */; };
+		86FAE3451796817100EBDE26 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 86FAE33C1796817100EBDE26 /* Default.png */; };
+		86FAE3461796817100EBDE26 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 86FAE33D1796817100EBDE26 /* Default@2x.png */; };
+		86FAE3471796817100EBDE26 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 86FAE33E1796817100EBDE26 /* Icon-72.png */; };
+		86FAE3481796817100EBDE26 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 86FAE33F1796817100EBDE26 /* Icon-72@2x.png */; };
+		86FAE3491796817100EBDE26 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 86FAE3401796817100EBDE26 /* Icon-Small.png */; };
+		86FAE34A1796817100EBDE26 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 86FAE3411796817100EBDE26 /* Icon-Small@2x.png */; };
+		86FAE34B1796817100EBDE26 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 86FAE3421796817100EBDE26 /* Icon.png */; };
+		86FAE34C1796817100EBDE26 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 86FAE3431796817100EBDE26 /* Icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,12 +37,18 @@
 		86C9723F1796723E00384707 /* BirthdayReminder-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BirthdayReminder-Prefix.pch"; sourceTree = "<group>"; };
 		86C972401796723E00384707 /* BRAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BRAppDelegate.h; sourceTree = "<group>"; };
 		86C972411796723E00384707 /* BRAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BRAppDelegate.m; sourceTree = "<group>"; };
-		86C972431796723E00384707 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		86C972451796723E00384707 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		86C972471796723E00384707 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		86C9724A1796723E00384707 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		86C9724C1796723E00384707 /* BRViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BRViewController.h; sourceTree = "<group>"; };
 		86C9724D1796723E00384707 /* BRViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BRViewController.m; sourceTree = "<group>"; };
+		86FAE33B1796817100EBDE26 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		86FAE33C1796817100EBDE26 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		86FAE33D1796817100EBDE26 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		86FAE33E1796817100EBDE26 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		86FAE33F1796817100EBDE26 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
+		86FAE3401796817100EBDE26 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		86FAE3411796817100EBDE26 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		86FAE3421796817100EBDE26 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		86FAE3431796817100EBDE26 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,7 @@
 			children = (
 				86C972371796723E00384707 /* BirthdayReminder */,
 				86C972301796723E00384707 /* Frameworks */,
+				86FAE3391796817100EBDE26 /* resources */,
 				86C9722F1796723E00384707 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -100,11 +113,33 @@
 				86C9723A1796723E00384707 /* InfoPlist.strings */,
 				86C9723D1796723E00384707 /* main.m */,
 				86C9723F1796723E00384707 /* BirthdayReminder-Prefix.pch */,
-				86C972431796723E00384707 /* Default.png */,
-				86C972451796723E00384707 /* Default@2x.png */,
-				86C972471796723E00384707 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		86FAE3391796817100EBDE26 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				86FAE33A1796817100EBDE26 /* images */,
+			);
+			name = resources;
+			path = BirthdayReminder/resources;
+			sourceTree = "<group>";
+		};
+		86FAE33A1796817100EBDE26 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				86FAE33B1796817100EBDE26 /* Default-568h@2x.png */,
+				86FAE33C1796817100EBDE26 /* Default.png */,
+				86FAE33D1796817100EBDE26 /* Default@2x.png */,
+				86FAE33E1796817100EBDE26 /* Icon-72.png */,
+				86FAE33F1796817100EBDE26 /* Icon-72@2x.png */,
+				86FAE3401796817100EBDE26 /* Icon-Small.png */,
+				86FAE3411796817100EBDE26 /* Icon-Small@2x.png */,
+				86FAE3421796817100EBDE26 /* Icon.png */,
+				86FAE3431796817100EBDE26 /* Icon@2x.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -160,10 +195,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				86C9723C1796723E00384707 /* InfoPlist.strings in Resources */,
-				86C972441796723E00384707 /* Default.png in Resources */,
-				86C972461796723E00384707 /* Default@2x.png in Resources */,
-				86C972481796723E00384707 /* Default-568h@2x.png in Resources */,
 				86C9724B1796723E00384707 /* MainStoryboard.storyboard in Resources */,
+				86FAE3441796817100EBDE26 /* Default-568h@2x.png in Resources */,
+				86FAE3451796817100EBDE26 /* Default.png in Resources */,
+				86FAE3461796817100EBDE26 /* Default@2x.png in Resources */,
+				86FAE3471796817100EBDE26 /* Icon-72.png in Resources */,
+				86FAE3481796817100EBDE26 /* Icon-72@2x.png in Resources */,
+				86FAE3491796817100EBDE26 /* Icon-Small.png in Resources */,
+				86FAE34A1796817100EBDE26 /* Icon-Small@2x.png in Resources */,
+				86FAE34B1796817100EBDE26 /* Icon.png in Resources */,
+				86FAE34C1796817100EBDE26 /* Icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -230,6 +271,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -254,6 +296,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -265,6 +308,7 @@
 				GCC_PREFIX_HEADER = "BirthdayReminder/BirthdayReminder-Prefix.pch";
 				INFOPLIST_FILE = "BirthdayReminder/BirthdayReminder-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -276,6 +320,7 @@
 				GCC_PREFIX_HEADER = "BirthdayReminder/BirthdayReminder-Prefix.pch";
 				INFOPLIST_FILE = "BirthdayReminder/BirthdayReminder-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -299,6 +344,7 @@
 				86C972531796723E00384707 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
